@@ -20,7 +20,7 @@
 ## Objetivo do Trabalho
  Criar um aplicativo que auxilie na diminuição dos efeitos ocasionados pela síndrome de burnout, oferecendo suporte acessível e contínuo para o monitoramento da saúde mental, gerenciamento de estresse e promoção de hábitos saudáveis. O aplicativo deve integrar funcionalidades como autoavaliações de bem-estar, exercícios de relaxamento e mindfulness, alertas para pausas programadas, desafios de autocuidado proporcionando aos usuários um ambiente virtual de apoio e prevenção.
 
-## Súmario
+## Sumário
 ### Entrega 1
 1. [Proposta](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%201/1.%20Proposta)
     - [Problemas](https://github.com/abreulucass/IHC-TP2/blob/main/docs/Entrega%201/1.%20Proposta/1.1%20Problemas.md#problema---s%C3%ADndrome-de-burnout)
