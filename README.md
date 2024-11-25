@@ -39,7 +39,15 @@
     - [Storyboard](https://github.com/abreulucass/IHC-TP2/blob/main/docs/Entrega%201/2.%20Design_Thinking/2.3%20Storyboard.md)
     - [Mapa de Objetivos](https://github.com/abreulucass/IHC-TP2/blob/main/docs/Entrega%201/2.%20Design_Thinking/2.4%20Mapa_Objetivos.md)
 ### Entrega 2
-
+1. [Design_Alternativas](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%202/3.%20Design_Alternativas)
+    - [Design Conceitual](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%202/3.%20Design_Alternativas/3.1%20Design_Conceitual)
+        - [Cenários de Interação](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%202/3.%20Design_Alternativas/3.1%20Design_Conceitual/3.1.1%20Cen%C3%A1rios_Intera%C3%A7%C3%A3o)
+        - [HTAs](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%202/3.%20Design_Alternativas/3.1%20Design_Conceitual/3.1.2%20HTA)
+        - [MOLIC](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%202/3.%20Design_Alternativas/3.1%20Design_Conceitual/3.1.3%20MOLIC)
+        - [Metamensagem](https://github.com/abreulucass/IHC-TP2/blob/main/docs/Entrega%202/3.%20Design_Alternativas/3.1%20Design_Conceitual/3.1.4%20Metamensagem.md)
+    - [Design Físico](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%202/3.%20Design_Alternativas/3.2%20Design_F%C3%ADsico/3.2.1%20Sketches)
+        - [Sketches](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%202/3.%20Design_Alternativas/3.2%20Design_F%C3%ADsico/3.2.1%20Sketches)
+    
 ### Entrega 3
 
 ### Entrega 4
