@@ -49,7 +49,8 @@
         - [Sketches](https://github.com/abreulucass/IHC-TP2/tree/main/docs/Entrega%202/3.%20Design_Alternativas/3.2%20Design_F%C3%ADsico/3.2.1%20Sketches)
     
 ### Entrega 3
-
+1. [Interface](https://github.com/abreulucass/IHC-TP2/blob/main/docs/Entrega%203/4.%20Design_Interface/4.1%20Interface/4.1.1%20Interface.md)
+2. [Wireframes]([https://github.com/abreulucass/IHC-TP2/blob/main/docs/Entrega%203/4.%20Design_Interface/4.1%20Interface/4.1.1%20Interface.md](https://github.com/abreulucass/IHC-TP2/blob/main/docs/Entrega%203/4.%20Design_Interface/4.2%20Wireframes/4.2.1%20Wireframe1.md))
 ### Entrega 4
 
 
